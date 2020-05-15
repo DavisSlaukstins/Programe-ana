@@ -30,31 +30,53 @@ html
 Gala izkats
 
 <img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/vad%20pog.PNG" >
+
 ### Vidus pogas
 html
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/stiligas%20pogas.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/stiligas%20pogas.PNG" >
+
 Gala izkats
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/st%20pog.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/st%20pog.PNG" >
+
 ### Mekletajs
 html
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/Search%20bars.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/Search%20bars.PNG" >
+
 js
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/search%20pogs%20f.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/search%20pogs%20f.PNG" >
+
 Gala izkats
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/s%20bar%20c.PNG" width="400" height="250">
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/s%20bar%20o.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/s%20bar%20c.PNG" >
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/s%20bar%20o.PNG" >
+
 ### Datu paradisana no datubazes
 html
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/Parada%20datus.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/Parada%20datus.PNG" >
+
 js
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/get%20funkcija.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/get%20funkcija.PNG" >
+
 Gala izkats
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/datu%20t.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/datu%20t.PNG" >
+
 ### Datu ievadisana
 html
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/Ievadisana.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/Ievadisana.PNG" >
+
 js
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/click%20funkcija.PNG" width="400" height="250">
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/post%20funkcija.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/click%20funkcija.PNG" >
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/post%20funkcija.PNG" >
+
 Gala izkats
-<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/d%20i.PNG" width="400" height="250">
+
+<img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/d%20i.PNG" >
