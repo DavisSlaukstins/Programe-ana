@@ -22,3 +22,4 @@ Ta palidzes lietotajam saprast kadas lietas ir un kur tas var atrast.
     3. Ievietoju funkciju kas man parada majaslapa datus no datubazes tabulas forma.
     4. Ievietoju funkciju kas lau majaslapa ievadit datus, kuriem teoretiski vajadzeja ievadities datubaze.
 ## Projekts
+<img src="https://github.com/DavisSlaukstins/Auto-fizix/blob/master/Sh%C4%93ma.jpg" width="400" height="250">
