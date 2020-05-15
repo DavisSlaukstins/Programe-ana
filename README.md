@@ -24,8 +24,11 @@ Ta palidzes lietotajam saprast kadas lietas ir un kur tas var atrast.
 ## Projekts
 ### Vadlīnijas pogas
 html
+
 <img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/Capture.PNG" >
+
 Gala izkats
+
 <img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/vad%20pog.PNG" >
 ### Vidus pogas
 html
