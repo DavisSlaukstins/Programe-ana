@@ -80,3 +80,20 @@ js
 Gala izkats
 
 <img src="https://github.com/DavisSlaukstins/Programe-ana/blob/master/github%20bildes/d%20i.PNG" >
+
+## Izmantotās tehnaloģijas
+### draw.io
+Šinī programma tika izveidots datubāzes modelis.
+### sql server management studio
+Šinī programma tika izveidota datubaze.
+### postman
+Šī aplikācija tika izmatota lai apskatitu datus no datubazes un parbauditu vai datubaze strada.
+### Marvel apps
+Šīnī aplikacijā es veidoju majaslapas prototipu.
+### Visual studio code
+Programma kurā programēju majaslapu izmantojot html, css un js.
+### Browser
+Brauzeris tika izmantots lai apskatitu un izmantotu majaslapu.
+## Veicamie uzlabojumi
+Es ganjau laprat pastradatu vēl pie dizaina, piemeram labak sakartotu datus, izveidotu labaku datu ievades formu un pievienotu vēl funkcijas kas lietotājam palīdzētu vieglāk apstrādāt datus un extra lietas kas var noderēt citiem nolūkiem.
+
